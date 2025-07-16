@@ -1,9 +1,10 @@
 ### 🌿 Tamaki Akita | Software Developer
 
-I’m a full-stack developer based in Canada, with a background in systems engineering in Japan.  
+I’m a full-stack developer based in Canada, with experience in large-scale web system development for the public sector in Japan.  
 I build web applications that prioritize both clarity and feeling—tools that function smoothly and invite thoughtful interaction.
 
-In Japan, I worked for four years on national-scale systems in the public sector, from health insurance platforms to research support tools. That experience shaped how I approach code today: with structure, care, and attention to context.
+Over four years, I contributed to national systems ranging from health insurance platforms to data tools for research programs.  
+That experience shaped how I approach code today: with structure, care, and attention to context.
 
 Currently, I'm focusing on modern web development using React, TypeScript, and Node.js.  
 I'm especially interested in how design, language, and logic can come together to shape digital experiences that feel intuitive, purposeful, and quietly expressive.
