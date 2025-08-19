@@ -26,7 +26,7 @@ I'm especially interested in how design, language, and logic can come together t
 #### 🧪 Projects
 - **Book Search App**  
   → A minimal, intuitive app to explore global literature via the Google Books API  
-  [Live Demo](https://book-search-react-python.vercel.app/) | [Repo](https://github.com/yourname/book-search-app)
+  [Live Demo](https://book-search-react-python.vercel.app/) | [Repo](https://github.com/tmk-a/book-search-react-python)
 
 - **Portfolio Site** *(WIP)*  
   → A space where story and structure meet
